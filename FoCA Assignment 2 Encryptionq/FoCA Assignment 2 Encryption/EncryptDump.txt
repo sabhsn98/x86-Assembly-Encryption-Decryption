@@ -1,0 +1,210 @@
+
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:23:55
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = tbc	Hex = 74  62  63  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:26:39
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = 	Hex = 0  0  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:28:20
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = ä	Hex = 16  8a  d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:28:36
+
+Original string =  sabsab	Hex = 73  61  62  73  61  62  
+
+Encrypted string = 5”(?Qâ	Hex = 35  d3  28  3f  51  89  
+
+Decrypted string = äI|	Hex = 16  8a  d  19  49  7c  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:29:57
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = ä	Hex = 16  8a  d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:30:04
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = ä	Hex = 16  8a  d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:30:27
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = än	Hex = 16  8a  d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 10:31:11
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = ä	Hex = 16  8a  d  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 12:00:08
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = $$$$	Hex = 24  24  24  24  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 12:00:51
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = ËËËË	Hex = e8  e8  e8  e8  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 12:29:44
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = ≈_X	Hex = c5  5f  58  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 12:33:02
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = «w7I	Hex = c7  77  37  49  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 12:39:53
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = «w7I	Hex = c7  77  37  49  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:12:34
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = bõù	Hex = 62  9b  9d  16  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:15:41
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = bõù	Hex = 62  9b  9d  16  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:20:51
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = _.%c	Hex = 5f  2e  25  63  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:22:18
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = ∂—†º	Hex = b6  d1  a0  bc  
+
+Decrypted string = test	Hex = 74  65  73  74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:28:21
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = sab	Hex = 73  61  62  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Sabeeh UL-Hassan) Encryption key = 'b'
+Date: 11/04/2018  Time: 13:34:19
+
+Original string =  sab	Hex = 73  61  62  
+
+Encrypted string = 5”(	Hex = 35  d3  28  
+
+Decrypted string = sab	Hex = 73  61  62  
+
+-------------------------------------------------------------

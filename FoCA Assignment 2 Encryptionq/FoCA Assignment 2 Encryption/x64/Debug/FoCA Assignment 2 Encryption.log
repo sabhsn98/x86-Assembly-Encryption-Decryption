@@ -1,0 +1,45 @@
+﻿  FoCA Assignment 2 Encryption Original with ASM.cpp
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(66): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(67): error C2065: 'push': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(68): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(67): error C2065: 'eax': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(68): error C2146: syntax error: missing ';' before identifier 'push'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(68): error C2065: 'push': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(70): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(68): error C2065: 'ecx': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(70): error C2146: syntax error: missing ';' before identifier 'movzx'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(70): error C2065: 'movzx': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(70): error C2065: 'ecx': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(71): error C2146: syntax error: missing ';' before identifier 'lea'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(71): error C2065: 'lea': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(71): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(71): error C2065: 'eax': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(72): error C2146: syntax error: missing ';' before identifier 'call'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(72): error C2065: 'call': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(73): error C2146: syntax error: missing ';' before identifier 'encrypt_nn'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(72): error C2065: 'encrypt_nn': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(73): error C2146: syntax error: missing ';' before identifier 'mov'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(73): error C2065: 'mov': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(73): error C2146: syntax error: missing ';' before identifier 'temp_char'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(73): error C2065: 'al': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(75): error C2146: syntax error: missing ';' before identifier 'pop'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(75): error C2065: 'pop': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(76): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(75): error C2065: 'ecx': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(76): error C2146: syntax error: missing ';' before identifier 'pop'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(76): error C2065: 'pop': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(77): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(76): error C2065: 'eax': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(77): error C2143: syntax error: missing ';' before '}'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(93): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(96): error C2065: 'mov': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(96): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(96): error C2065: 'eax': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(96): error C2065: 'ecx': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(97): error C2146: syntax error: missing ';' before identifier 'inc'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(97): error C2065: 'inc': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(98): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(97): error C2065: 'eax': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(99): error C2146: syntax error: missing ';' before identifier 'ret'
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(98): error C2065: 'ret': undeclared identifier
+c:\users\owner\desktop\foca assignment 2 encryption\foca assignment 2 encryption\foca assignment 2 encryption original with asm.cpp(99): error C2143: syntax error: missing ';' before '}'
